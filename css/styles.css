@@ -84,7 +84,7 @@ body {
     letter-spacing: 0.32px;
 }
 
-.nav-link:hover::after{
+.nav-link::after{
     content: "";
     position: absolute;
     left:0;
